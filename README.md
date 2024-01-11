@@ -1,2 +1,8 @@
-# Bank-Loan-Approval-Prediction
-a simple deep neural network model to predict the approval of personal loan for a person based on features like age, experience, income, locations, family, education, exiting mortgage, credit card etc.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
